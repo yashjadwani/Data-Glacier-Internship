@@ -1,0 +1,12 @@
+file_type: csv
+file_name: simple_dataset
+outbound_delimiter: "|"
+columns:
+    - ID
+    - Name
+    - Age
+    - Address
+    - City
+    - State
+    - Country
+    - Postcode
